@@ -137,6 +137,8 @@ public class ReportAction extends ActionBase {
             }
         }
     }
+        
+    
     
     /**
      * 詳細画面を表示する
