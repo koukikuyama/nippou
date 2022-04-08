@@ -13,6 +13,7 @@ import constants.ForwardConst;
 import constants.JpaConst;
 import constants.MessageConst;
 import services.ReportService;
+
 /**
  * 日報に関する処理を行うActionクラス
  *
@@ -137,9 +138,6 @@ public class ReportAction extends ActionBase {
             }
         }
     }
-        
-    
-    
     /**
      * 詳細画面を表示する
      * @throws ServletException
@@ -190,7 +188,6 @@ public class ReportAction extends ActionBase {
         }
 
     }
-    
     /**
      * 更新を行う
      * @throws ServletException
@@ -233,5 +230,13 @@ public class ReportAction extends ActionBase {
             }
         }
     }
+    
+    
+    
+    
 
+    
+    
+    
+    
 }
