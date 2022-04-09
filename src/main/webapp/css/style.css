@@ -68,7 +68,15 @@ button {
     font-size: 14px;
     padding: 5px 10px;
 }
-
+#flush_success {
+    width: 100%;
+    padding-top: 28px;
+    padding-left: 2%;
+    padding-bottom: 28px;
+    margin-bottom: 15px;
+    color: rgb(0, 128, 192);
+    background-color: #d4edda;
+}
 #footer {
     text-align: center;
 }
@@ -141,12 +149,3 @@ h3 {
     font-size: larger;
 }
 
-#flush_success {
-    width: 100%;
-    padding-top: 28px;
-    padding-left: 2%;
-    padding-bottom: 28px;
-    margin-bottom: 15px;
-    color: rgb(0, 128, 192);
-    background-color: #d4edda;
-}
